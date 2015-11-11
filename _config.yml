@@ -2,12 +2,13 @@ name: Cacerola
 favicon: null
 layout_spectrum: 0.24168
 typography_spectrum: 0.74853
+title: Cacerola Growth Marketing - Valida tus ideas en un corto tiempo
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-39073529-11
   facebook: null
   twitter: null
 opengraph:
